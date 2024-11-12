@@ -1,2 +1,7 @@
-elpa/
 org-roam.db
+bookmarks
+backups/
+auto-saves
+auto-save-list/
+.org-id-locations
+elpa/
